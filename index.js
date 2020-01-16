@@ -1,6 +1,6 @@
 function shout (string) {
   return string.toUpperCase()
 }
-function whisper(striing) {
+function whisper(string) {
   return string
 }
